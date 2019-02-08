@@ -1,2 +1,2 @@
 # descarteslabs_tutorials
-Tutorials for Descartes Labs Platform
+Tutorials for the Descartes Labs Platform
